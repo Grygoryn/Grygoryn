@@ -1,15 +1,16 @@
 ## Hi there 👋
-### My name is Yan Gabriel but you can just call me Yan or Grygo if you want!
-Im currently 19 and i've been studying programation since 2021. My first contact with studying IT was in college and since then i realized how wonderfull programation can be.
+### My name is Yan Gabriel
+Im currently 19 and i've been studying programation since the beginning of 2021. My first contact with studying IT was in college (Civil Eng. Major) and since then i realized how wonderfull programation can be.
 
-🌱 Knowledges: HTML, CSS, Javascript, React and Python.
+🌱 Knowledges: Web development in Python (Django & Django REST) and Javascript/Node.js (React, Express, EJS & SASS)
 
-👯 I’m looking to collaborate on any beginner-friendly project. Learning while helping other is the best scenario for me.
+👯 I am looking to take my first steps as a professional programmer. I want to start working in the IT market, gain experience and develop myself further.
 
-⚡ Expertises: Right now my two main areas are Data Science with Python and Frontend Web Development. I'm still new to both but i'm seeking to improve every day.
+⚡ Expertises: My main area is backend development with Node.js. I also have experience with the MERN stack and with python's Django fremework.
 
 😄 Facts about me: 
   - He/Him -- Brazilian
   - Advanced english
   - Basic russian and italian
-  - I have experience with graphic design and think that creativity is one of my main qualities.
+  - I have experience with graphic design (Photoshop, Illustrator and GIMP) and think that creativity is one of my main qualities.
+  - I'm also eager to learn new things and understand even better what i already know.
