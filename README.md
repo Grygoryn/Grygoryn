@@ -6,7 +6,7 @@ Im currently 19 and i've been studying programation since the beginning of 2021.
 
 👯 I am looking to take my first steps as a professional programmer. I want to start working in the IT market, gain experience and develop myself further.
 
-⚡ Expertises: My main area is backend development with Node.js. I also have experience with the MERN stack and with python's Django fremework.
+⚡ Expertises: My main area is backend development with Node.js. I also have experience with the MERN stack and with Python's Django framework.
 
 😄 Facts about me: 
   - He/Him -- Brazilian
