@@ -49,9 +49,9 @@ I'm Yan Gabriel, a 19yo Junior Full Stack Developer from Brazil.
             <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp       
        </li>
        <li>Still learning: <br/>
-	    <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" title="Next" alt="Next" width="40" height="40"/>&nbsp;   
 	    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
             <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+	    <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" title="Next" alt="Next" width="40" height="40"/>&nbsp;   
 	    <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" title="MaterialUI" alt="MaterialUI" width="50" height="40"/>&nbsp;
 	    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" title="Tailwind" alt="Tailwind" width="50" height="40"/>&nbsp;   
 	       <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" title="Docker" alt="Docker" width="50" height="40"/>&nbsp;  
