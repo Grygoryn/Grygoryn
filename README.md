@@ -13,9 +13,8 @@
 ### :man_technologist: About Me :
 
 I'm Yan Gabriel, a 19yo Junior Full Stack Developer from Brazil.
-- :telescope: I’m looking for profissional oportunities as a junior webdeveloper (Backend, Frontend or Fullstack)
 
-- :watch: I've been studying programming since early 2021, starting with python and then migrating to Javascript in 2022
+- :watch: I've been studying programming since early 2021, starting with python and then migrating to Javascript in 2022. 
 
 - :book: My main academic focus on the moment is improving on the MERN stack
 
@@ -31,6 +30,13 @@ I'm Yan Gabriel, a 19yo Junior Full Stack Developer from Brazil.
 
 <div>
     <ul>
+	<li> Working with: <br/>
+	    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
+	    <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+	    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+	    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular"  alt="Angular" width="40" height="40"/>&nbsp;
+ 	    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+ 	</li>
         <li>Good Knowledge: <br/>
             <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -38,22 +44,17 @@ I'm Yan Gabriel, a 19yo Junior Full Stack Developer from Brazil.
 	    <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"  title="Styled Components" alt="Styled Components" width="40" height="40"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
             <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-	    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 	    <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" title="React" alt="React" width="40" height="40"/>&nbsp;
             <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" **alt="Git" width="40" height="40"/>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 	    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp       
        </li>
        <li>Still learning: <br/>
-	    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
-            <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 	    <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" title="Next" alt="Next" width="40" height="40"/>&nbsp;   
 	    <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" title="MaterialUI" alt="MaterialUI" width="50" height="40"/>&nbsp;
 	    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" title="Tailwind" alt="Tailwind" width="50" height="40"/>&nbsp;   
 	       <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" title="Docker" alt="Docker" width="50" height="40"/>&nbsp;  
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp; 
-	       <p>Those are in order of priority from Major to Minor</p>   
        </li>
     </ul>
 </div>
