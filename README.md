@@ -36,7 +36,7 @@ I'm Yan Gabriel, a 21yo Junior Full Stack Developer from Brazil.
         <li>Good Knowledge: <br/>
             <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-            <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsass-lang.com%2Fstyleguide%2Fbrand%2F&psig=AOvVaw3SJxZZdcVYzG90v7b5MV0I&ust=1712351912318000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICC6YS-qYUDFQAAAAAdAAAAABAE"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 	    <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"  title="Styled Components" alt="Styled Components" width="40" height="40"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
             <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -51,5 +51,5 @@ I'm Yan Gabriel, a 21yo Junior Full Stack Developer from Brazil.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gryygo&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gryygo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kizzyan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizzyan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
