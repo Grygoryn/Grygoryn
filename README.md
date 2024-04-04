@@ -12,13 +12,9 @@
 
 ### :man_technologist: About Me :
 
-I'm Yan Gabriel, a 19yo Junior Full Stack Developer from Brazil.
+I'm Yan Gabriel, a 21yo Junior Full Stack Developer from Brazil.
 
-- :watch: I've been studying programming since early 2021, starting with python and then migrating to Javascript in 2022. 
-
-- :book: My main academic focus on the moment is improving on the MERN stack
-
-- :seedling: Right now i'm taking some online courses and working on personal projects (that you can find on my repos page).
+- :watch: I've been studying programming since early 2021, starting with python and then migrating to Javascript and Java in 2022. Currently, i'm work with Spring Boot and Angular  
 
 - :zap: In my spare time i like to watch videos and read articles about topics that catch my eye like techology, biology, history and cinema
 
@@ -48,13 +44,6 @@ I'm Yan Gabriel, a 19yo Junior Full Stack Developer from Brazil.
             <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" **alt="Git" width="40" height="40"/>
 	    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp       
-       </li>
-       <li>Still learning: <br/>
-	    <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" title="Next" alt="Next" width="40" height="40"/>&nbsp;   
-	    <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" title="MaterialUI" alt="MaterialUI" width="50" height="40"/>&nbsp;
-	    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" title="Tailwind" alt="Tailwind" width="50" height="40"/>&nbsp;   
-	       <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" title="Docker" alt="Docker" width="50" height="40"/>&nbsp;  
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp; 
        </li>
     </ul>
 </div>
