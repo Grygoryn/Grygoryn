@@ -1,8 +1,9 @@
-Tech profissional and enthusiast from Brazil. 
+Tech profissional and enthusiast from Brazil <br/>
 Currently working with Angular and Spring Boot but always trying to have fun with any interesting tech that catches my eye
+
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
     <ul>
@@ -31,6 +32,6 @@ Currently working with Angular and Spring Boot but always trying to have fun wit
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kizzyan&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizzyan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
