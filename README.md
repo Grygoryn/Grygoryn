@@ -1,3 +1,4 @@
+### About me :
 Tech profissional and enthusiast from Brazil <br/>
 Currently working with Angular and Spring Boot but always trying to have fun with any interesting tech that catches my eye
 
@@ -22,10 +23,10 @@ Currently working with Angular and Spring Boot but always trying to have fun wit
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 	    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-            <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+            <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 	    <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" title="React" alt="React" width="40" height="40"/>&nbsp;
 	    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp       
+            <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp       
        </li>
     </ul>
 </div>
