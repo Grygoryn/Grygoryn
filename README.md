@@ -36,5 +36,6 @@ Currently working with Angular and Spring Boot but always trying to have fun wit
 ---
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kizzyan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![roadmap.sh](https://roadmap.sh/card/wide/65a311a07b84907090332c24?variant=dark&roadmaps=java%2Cgolang%2Cdatastructures-and-algorithms%2Cangular)](https://roadmap.sh)
+<span>⠀⠀⠀</span>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizzyan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
