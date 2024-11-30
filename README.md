@@ -1,5 +1,5 @@
 ### About me :
-Tech profissional and enthusiast from Brazil <br/>
+Tech profissional, teacher and enthusiast from Brazil <br/>
 Currently working with Angular and Spring Boot but always trying to have fun with any interesting tech that catches my eye
 
 ---
